@@ -24,6 +24,7 @@
 ## Фактический проект
 
 https://cyberzilla.malahov-artem.ru
+https://github.com/Mapteg34/cyberzilla-test
 
 ## Разворачивание локально
 
